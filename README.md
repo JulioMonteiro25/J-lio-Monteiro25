@@ -1,4 +1,3 @@
-#
 # 💫 Sobre mim:
 Atualmente trabalho em uma empresa de telecomunicações na área de vendas.<br>Sou estudante de Análise e desenvolvimento de sistemas (Último semestre)<br>Aprendendo a programar
 
